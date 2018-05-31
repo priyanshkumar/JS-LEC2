@@ -1,0 +1,16 @@
+{
+  "name": "lec2",
+  "version": "1.0.0",
+  "main": "currency.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "moment": "^2.22.1"
+  },
+  "devDependencies": {},
+  "description": "my first java script"
+}
